@@ -81,16 +81,16 @@ VideoPlayer.prototype.init = function() {
         $('.js-month').text("@ Interest Rate of 8.3% p.a.");
 
         $('#animate3 .animate3__line2').append(
-            "₹9,00,000"
+            "₹8,00,000"
         );
         $('#animate4 .animate4__line2').text(
-            "₹11,561 p.m in Year 1"
+            "₹11,394 p.m in Year 1"
         );
         $('#animate4 .animate4__line3').text(
-            "₹12,340 p.m in Year 2"
+            "₹13,730 p.m in Year 2"
         );
         $('#animate4 .animate4__line4').text(
-            "₹14,684 p.m in Year 3"
+            "₹16,684 p.m in Year 3"
         );
         $('#animate6').text(
             "Hey Ankur, click here to avail your Pre-approved Auto Loan offer"
